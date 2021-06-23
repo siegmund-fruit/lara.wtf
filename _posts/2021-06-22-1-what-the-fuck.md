@@ -1,0 +1,24 @@
+---
+layout: post
+title: A blog for the job
+subtitle: Ein Blog für Lara (oder für mich?)
+# cover-img: /assets/img/path.jpg
+# thumbnail-img: /assets/img/thumb.png
+# share-img: /assets/img/path.jpg
+tags: [du, ich]
+---
+***Ehrlich gesagt habe ich schon seitdem du mir auf Instagram eine Anfrage geschickt hast immer wieder Stunden damit verbracht, Nachrichten an dich zu formulieren, weil ich aus irgend einem Grund sofort das starke Bedürfnis hatte, dir mitzuteilen, was ich gerade hinter mir habe, wo ich gerade so stehe und was ich in letzter Zeit für Erkenntnisse hatte. Ich habe aber nicht einmal ansatzweise zu Papier bekommen, was ich dir sagen wollte...***
+
+Eigentlich geht es nur um ein paar harte Fakten und ich weiß mittlerweise auch ziemlich genau, welche das sind, aber ich habe das ständige Gefühl, mich erklären zu müssen, [um Mißverständnisse zu vermeiden](/2021-06-22-weird-behavior/). Das führt dann immer dazu, dass ich ausschweife und seitenweise lose Gedanken aufschreibe, nur um dann am Ende festzustellen, dass ich wieder nur um den heißen Brei geredet habe und nicht auf den Punkt gekommen bin und dann letztendlich doch wieder alles zu löschen. Obwohl ich keine Ahnung hatte, wo ich anfangen sollte und nicht mal ansatzweise wusste, worauf ich eigentlich hinaus wollte, hatte ich die ganze Zeit einen so starken Drang, dir zu schreiben, dass ich mich nur schwer zurückhalten konnte. Nach deiner Sprachnachricht konnte ich dann nicht mehr anders und es ist nur noch so aus mir herausgesprudelt.
+
+Ich wollte dir eigentlich noch viel mehr schreiben aber ich hab mich dann zurück gehalten, weil ich auch einfach nichts unüberlegtes schreiben wollte. Eigentlich hätte ich die Nachrichten, die ich dir schon geschickt hatte, zuerst am liebsten wieder zurückgezogen. Aber weil ich mir ich sicher war, dass da nichts drin stand, [was ich nicht wirklich fühle](/2021-06-23-alienation/) und ich sonst einfach nicht wusste, was ich machen sollte, dachte ich mir dann, ich schaue einfach mal, wo das jetzt hinführt. Mir war zwar eigentlich klar, dass das dafür sorgen würde, dass du mir unter Umständen sehr lange nicht antworten wirst und ich hatte auch keinen Plan, wie ich dann weiter machen würde aber ich musste einfach irgendwas tun. Ich wäre sonst weiterhin total affektiert dir gegenüber gewesen und es mag zwar sein, dass das von außen süß oder unsicher wirkt, aber es ist ziemlich anstrengend und unangenehm für mich. Mit dir zu schreiben hat mich komplett lahmgelegt und von der Arbeit abgehalten und ich muss bis nächsten Monat eine App mit sehr vielen potentiellen Kunden ins Betastadium bringen und launchen.
+
+Ich fühlte mich, nachdem du die Nachrichten gelesen hattest, zuerst irgendwie erleichtert und konnte mich wieder auf die Arbeit konzentrieren. Nachdem ich sie dann aber Sonntagabends nochmal überflogen hatte bekam ich wieder Panik, du könntest etwas falsch verstehen.
+Ich hab darauf hin damit angefangen, alle Aussagen durchzugehen und jede Ambiguität, die mir möglich erschien, auszuschließen. Ich dachte, wenn es keine Mißverständnise mehr geben könnte, gäbe es auch keinen Grund mehr, mir Sorgen zu machen, dass ich dich ablenken könnte. Der Text wurde dann allerdings schnell über 8000 Zeichen lang und wie ich (dank dir übrigens) kurz zuvor festgestellt hatte, liegt die Maximallänge von DMs blöderweise aber bei 1000 Zeichen. Nachdem ich den Text dann mühseelig gekürzt und portioniert hatte waren es immernoch 6 Nachrichten à ~1000 Zeichen - und die hatten durch die Kürzungen noch dazu so ungefähr das sprachliche Niveau und die emotionale Wärme eines Beipackzettels erreicht. Als ich dir dann die erste senden wollte, konnte ich mich aber einfach nicht überwinden. Es fühlte sich einfach falsch an, dir jetzt nochmal 6 so lange Nachrichten hinterher zu schicken.
+
+Und dann kam mir nach einer Weile die Idee: ***"Hey, ich mach Lara einfach ein Blog!"*** Yeah, ziemlich neat...
+
+{: .box-note}
+tl;dr\
+**So muss ich nicht deinen Posteingang voll spammen und fühle mich nicht die ganze Zeit, als würde ich dich nötigen und du kannst reinschauen wann du willst und skippen, was dich nicht interessiert. Außerdem kann ich das dann strukturieren und das hilft mir selbst auch ganz schön weiter. Außerdem geh ich mal schwer davon aus, dass du mich gern kennen lernen würdest und ich glaube, das ist für den Moment eine ganz gute Möglichkeit - irgendetwas sagt mir aber sowieso gerade, dass ich schon sehr bald wieder klar komme.
+Ich schreibe eh schon alles auf und wollte schon seit Ewigkeiten anfangen, zu bloggen, auch wenn ich mir das ursprünglich anders vorgestellt hatte... Aber dann eben private Blogging für Lara, finde ich sowieso sehr viel besser. ;)**
