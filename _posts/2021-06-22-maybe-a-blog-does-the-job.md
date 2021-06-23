@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro
-subtitle: A blog for the job
+subtitle: Maybe a blog does the job
 # cover-img: /assets/img/5e8gea.jpg
 # thumbnail-img: /assets/img/5e8gea.jpg
 # share-img: /assets/img/path.jpg
