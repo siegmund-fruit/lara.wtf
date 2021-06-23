@@ -2,8 +2,8 @@
 layout: post
 title: Intro
 subtitle: A blog for the job
-# cover-img: /assets/img/path.jpg
-# thumbnail-img: /assets/img/thumb.png
+# cover-img: /assets/img/5e8gea.jpg
+# thumbnail-img: /assets/img/5e8gea.jpg
 # share-img: /assets/img/path.jpg
 tags: [misc]
 ---
@@ -23,14 +23,14 @@ Dann kam mir nach einer Weile eine wunderbare Idee: "Ich mach einfach ein Blog f
 * Ich kann mich gleich präzise ausdrücken weil dieses Längenproblem nicht besteht
 * Du kannst reinschauen wann du willst und skippen, was dich nicht interessiert.
 * Ich kann es so strukturieren, dass ich zum Punkt kommen kann und du es auch verstehst
-* Gerade die einzige, sinnvolle und gleichzeitig eine perfekte Methode, mich kennen zu lernen
+* Gerade die einzig sinnvolle und gleichzeitig die perfekte Methode, mich kennen zu lernen
 * **(by far) the most romantic thing I ever did <3**
-
-* Bonus: Ich werde mich selbst viel besser verstehen
-* Bonus: Ich wollte sowieso schon seit Ewigkeiten anfangen, zu bloggen, auch wenn ich mir das ursprünglich anders vorgestellt hatte. Dann eben private Blog for Lara, finde ich irgendwie sogar besser ;)
-
 <p align="center">
   <img src="/assets/img/5e8gea.jpg" alt="Material Bread logo">
 </p>
+* Bonus: Ich werde mich selbst viel besser verstehen
+* Bonus: Ich wollte sowieso schon seit Ewigkeiten anfangen, zu bloggen, auch wenn ich mir das ursprünglich anders vorgestellt hatte. Dann eben private Blog for Lara, finde ich irgendwie sogar besser ;)
+
+
 
 **Der nächste Artikel kommt heute Abend oder morgen und es wird nicht lange dauern, dann verstehst du meine Innenwelt sehr viel besser und traust dich vielleicht wieder an mich ran. Und selbst, wenn ich mich tatsächlich doch täuschen sollte und du es nicht liest (ja, ich weiß, lol.), wird es mir trotzdem sehr viel weiter helfen und ich werde nicht damit aufhören, bis ich fertig bin. So wow.**
