@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A blog for the job
-subtitle: und für Lara
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
