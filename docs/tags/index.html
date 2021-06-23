@@ -9,13 +9,13 @@
 
   
 
-  <title>Lara.WTF</title>
+  <title>Tag Index</title>
 
   
   <meta name="author" content="Siegmund Fruit">
   
 
-  <meta name="description" content="Things you should know">
+  <meta name="description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
 
   
 
@@ -78,15 +78,15 @@
 
   
   <meta property="og:site_name" content="Lara.WTF">
-  <meta property="og:title" content="Lara.WTF">
-  <meta property="og:description" content="Things you should know">
+  <meta property="og:title" content="Tag Index">
+  <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
 
   
 
   
   <meta property="og:type" content="website">
-  <meta property="og:url" content="/">
-  <link rel="canonical" href="/">
+  <meta property="og:url" content="/tags/">
+  <link rel="canonical" href="/tags/">
   
 
   
@@ -95,8 +95,8 @@
   <meta name="twitter:site" content="@">
   <meta name="twitter:creator" content="@">
 
-  <meta property="twitter:title" content="Lara.WTF">
-  <meta property="twitter:description" content="Things you should know">
+  <meta property="twitter:title" content="Tag Index">
+  <meta property="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
 
   
 
@@ -206,12 +206,7 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="page-heading">
-          <h1>Lara.WTF</h1>
-          
-            
-              <hr class="small">
-              <span class="page-subheading">Things you should know</span>
-            
+          <h1>Tag Index</h1>
           
 
           
@@ -231,63 +226,25 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      
-
-
-
-<div class="posts-list">
-  
-  <article class="post-preview">
-    
-
-    
-
-    <a href="/2021-06-22-1-what-the-fuck/">
-      <h2 class="post-title">A blog for the job</h2>
-
-      
-        <h3 class="post-subtitle">
-        Ein Blog für Lara (oder für mich?)
-        </h3>
-      
-    </a>
-
-    <p class="post-meta">
-      
-      Posted on June 22, 2021
-    </p>
-
-    
-
-    
-    
-
-    <div class="post-entry">
-      
-      Ehrlich gesagt habe ich schon seitdem du mir auf Instagram eine Anfrage geschickt hast immer wieder Stunden damit verbracht, Nachrichten an dich zu formulieren, weil ich aus irgend einem Grund sofort das starke Bedürfnis hatte, dir mitzuteilen, was ich gerade hinter mir habe, wo ich gerade so stehe und was...
-      
-      
-        <a href="/2021-06-22-1-what-the-fuck/" class="post-read-more">[Read&nbsp;More]</a>
-      
-    </div>
-    
-
-    
-    <div class="blog-tags">
-      <span>Tags:</span>
-      
-      <a href="/tags#du">du</a>
-      
-      <a href="/tags#ich">ich</a>
-      
-    </div>
-    
-
-   </article>
-  
-</div>
-
-
+      <a href="#du" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;du&nbsp;(1)</a><a href="#ich" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;ich&nbsp;(1)</a><div id="full-tags-list"><h2 id="du" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;du&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2021-06-22-1-what-the-fuck/">A blog for the job</a>
+                <div class="entry-date">
+                    <time datetime="2021-06-22T00:00:00-04:00">June 22, 2021</time>
+                </div>
+            </div></div><h2 id="ich" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;ich&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2021-06-22-1-what-the-fuck/">A blog for the job</a>
+                <div class="entry-date">
+                    <time datetime="2021-06-22T00:00:00-04:00">June 22, 2021</time>
+                </div>
+            </div></div></div>
 
 
       

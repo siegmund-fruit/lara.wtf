@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Lara.WTF</title>
+    
+    
+    <description>Posts for Lara</description>
+    
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>A blog for the job</title>
+        <description>
+          Ein Blog für Lara (oder für mich?) - 
+          Ehrlich gesagt habe ich schon seitdem du mir auf Instagram eine Anfrage geschickt hast immer wieder Stunden damit verbracht, Nachrichten an dich zu formulieren, weil ich aus irgend einem Grund sofort das starke Bedürfnis hatte, dir mitzuteilen, was ich gerade hinter mir habe, wo ich gerade so stehe und was...
+        </description>
+        <pubDate>Tue, 22 Jun 2021 00:00:00 -0400</pubDate>
+        <link>/2021-06-22-1-what-the-fuck/</link>
+        <guid isPermaLink="true">/2021-06-22-1-what-the-fuck/</guid>
+      </item>
+    
+  </channel>
+</rss>
