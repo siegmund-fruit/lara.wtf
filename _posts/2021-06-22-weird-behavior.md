@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Walking on eggshells
-subtitle: Von der Angst vor Ambiguität und unvorhersehbaren Konsequenzen
+subtitle: Angst vor Ambiguität und unvorhersehbaren Konsequenzen
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
