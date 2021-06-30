@@ -36,7 +36,7 @@ Obwohl sich mein Schwanz so anfühlte, als würde er jeden Moment explodieren, z
 „Ja?“\
 „Du hast mir mal im Club deine Nummer gegeben.“\
 Sie sah mich nervös an, hielt ihren Zeigefinger vor ihre Lippen, um mir zu sagen, dass ich leise sein sollte und deutete mit der anderen Hand auf den Typen, der neben ihr saß und sich gerade mit Christian unterhielt.\
-„Ach, ist doch eh schon Jahre her und ich hab dich ja sowieso nie angerufen!“, entgegnete ich, zwinkerte ihr zu, fragte dann ihren Nebenmann, „und wie heißt du eigentlich, wenn wir schon dabei sind?“ - unhöflicherweise unterbrach ich das Gespräch, in dem er sich befunden hatte.\
+„Ach, ist doch eh schon Jahre her und ich hab dich ja sowieso nie angerufen!“, entgegnete ich, zwinkerte ihr zu, fragte dann ihren Nebenmann, „und wie heißt du eigentlich, wenn wir schon dabei sind?“ - unhöflicherweise unterbrach ich das Gespräch, in dem er sich befand.\
 Er drehte sich zu mir und lächelte. „Georg“, sagte er und schüttelte mir dabei die Hand, „Und du?“. \
 „Jakob.“\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ich stieg ins Gespräch mit ein. Georg war – wie Christian und ich - auch Informatiker, also drehte es sich nach kurzer Zeit um unseren gemeinsamen Beruf. Wir sprachen über unterschiedliche Programmiersprachen und deren Vorteile und ich Begann, lang und breit, gegen die unsinnig weite Verbreitung von C zu wettern, als Alina einstieg: „Ja, C fand ich auch immer total Scheiße.“\
