@@ -1,4 +1,5 @@
-body{
-    text-align: justify!important;
-    word-wrap: break-word!important;
+.blog-post>p{
+    line-height: 2!important;
+    /*text-align: justify!important;
+    word-wrap: break-word!important;*/
 }
