@@ -67,7 +67,7 @@ Vor der Tür begann ich sofort damit, Jenni zu berichten, was gerade passiert wa
 Wir umarmten uns und liefen in unterschiedliche Richtung.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;„Hat sie das wirklich gemacht?! Ich kann das irgendwie nicht so ganz glauben“, dachte ich während ich innerlich tobend nach Hause lief, „das ist mit Abstand die krasseste Nummer, die ein Mädchen jemals mit mir abgezogen hat“. \
 Zu Hause angekommen schrieb ich ihr wutentbrannt eine SMS: „Ich hätte nie gedacht, dass du so eine Schlampe bist“.\
-„Wie konnte ich nur so blöd sein?“, fragte ich mich im Bett liegend, Wie kann man das anders erklären, außer damit, dass sie eine verlogene Schlampe ist?“. Ich musste sie vergessen, keine Frage.\
+„Wie konnte ich nur so blöd sein?“, fragte ich mich im Bett liegend, "wie kann man das anders erklären, außer damit, dass sie eine verlogene Schlampe ist?“. Ich musste sie vergessen, keine Frage.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am nächsten Tag war die Wut allerdings schon etwas abgeflaut und wich nach und nach dem Verlangen danach, mit meinem riesigen Schwanz ihre enge Pussy zu vögeln. Sie war so eng. Ich musste da unbedingt zumindest noch ein Mal rein, bevor ich sie abschieße.
 
 Als sie dann am folgenden Montag zurück kam, rief sie mich an. „Hey, ich bin wieder da!“, sagte sie, als ich ran ging.\
